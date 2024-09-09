@@ -2,7 +2,7 @@
 
 <br/> 
 
-This lab assignment uses Python and Pandas to answer the following questions: 
+### This lab assignment uses Python and Pandas to answer the following questions: 
 
 - What was the highest rated movie per year?
 - Which director has released the most number of movies over the years?
